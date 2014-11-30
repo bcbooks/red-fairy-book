@@ -1,0 +1,51 @@
+Title: The Red Fairy Book
+Author: Andrew Lang
+URL: http://bencrowder.net/books/fairy-tales/red-fairy-book/1.0
+Language: en
+Cover: source/cover.jpg
+CSS: source/style.css
+TOC: source/toc
+
+Title Page | source/title.text
+Copyright | source/copyright.text
+Preface | source/preface.text
+
+Table of Contents | source/toc.text
+
+The Twelve Dancing Princesses | source/twelve-dancing-princesses.text
+The Princess Mayblossom | source/the-princess-mayblossom.text
+Soria Moria Castle | source/soria-moria-castle.text
+The Death of Koschei the Deathless | source/the-death-of-koshchei.text
+The Black Thief and Knight of the Glen | source/the-black-thief.text
+The Master Thief | source/the-master-thief.text
+Brother and Sister | source/brother-and-sister.text
+Princess Rosette | source/princess-rosette.text
+The Enchanted Pig | source/the-enchanted-pig.text
+The Norka | source/the-norka.text
+The Wonderful Birch | source/the-wonderful-birch.text
+Jack and the Beanstalk | source/jack-and-the-beanstalk.text
+The Little Good Mouse | source/the-little-good-mouse.text
+Graciosa and Percinet | source/graciosa-and-percinet.text
+The Three Princesses of Whiteland | source/three-princesses-of-whiteland.text
+The Voice of Death | source/the-voice-of-death.text
+The Six Sillies | source/the-six-sillies.text
+Kari Woodengown | source/kari-woodengown.text
+Drakestail | source/drakestail.text
+The Ratcatcher | source/the-ratcatcher.text
+The True History of Little Goldenhood | source/little-goldenhood.text
+The Golden Branch | source/the-golden-branch.text
+The Three Dwarfs | source/the-three-dwarfs.text
+Dapplegrim | source/dapplegrim.text
+The Enchanted Canary | source/the-enchanted-canary.text
+The Twelve Brothers | source/the-twelve-brothers.text
+Rapunzel | source/rapunzel.text
+The Nettle Spinner | source/the-nettle-spinner.text
+Farmer Weatherbeard | source/farmer-weatherbeard.text
+Mother Holle | source/mother-holle.text
+Minnikin | source/minnikin.text
+Bushy Bride | source/bushy-bride.text
+Snowdrop | source/snowdrop.text
+The Golden Goose | source/the-golden-goose.text
+The Seven Foals | source/the-seven-foals.text
+The Marvellous Musician | source/the-marvellous-musician.text
+The Story of Sigurd | source/the-story-of-sigurd.text
